@@ -1,6 +1,6 @@
 body {
     background-color: #ccc;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(27, 25, 25);
     margin-top: 100px;
 }
@@ -18,7 +18,7 @@ h2 {
 }
 
 .card {
-    background-color: darkslategray;
+    background-color: rgb(60, 104, 104);
     border-radius: 15px;
     margin: 0 auto;
     width: 400px;
